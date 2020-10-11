@@ -1,2 +1,12 @@
-# KTHack2020---Neural-Qubits
+# Neural-Qubits
 KTHack2020 - KUANTUM PROGRAMLAMA HACKATHONU 
+
+Grup Üyeleri:
+
+〈 ALARA | ZINDANCIOĞLU 〉
+
+〈 BAŞAK | EKINCI 〉
+
+〈 ENES | BAŞPINAR 〉
+
+〈 TOGAN | TLIMAKHOV | YUSUF 〉
