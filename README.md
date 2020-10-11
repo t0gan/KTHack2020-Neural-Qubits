@@ -49,22 +49,16 @@ Modelimiz MNIST datasetinde 3 ve 6 sayılarını sınıflandırmak için kullan�
 ------------------------------------------------------------------------------------------------------------------------------------
 **Referanslar**
 
-Implementation and Analysis of Quantum Fourier Transform in Image Processing. Ola Al-Ta’ani, Ali Mohammad Alqudah2, Manal Al-Bzoor
-Quantum neural network, M.V.Altaisky 
+[0]: Implementation and Analysis of Quantum Fourier Transform in Image Processing. Ola Al-Ta’ani, Ali Mohammad [1]: Alqudah2, Manal Al-Bzoor
+[2]: Quantum neural network, M.V.Altaisky 
+[3]: Learning the quantum algorithm for state overlap, Lukasz Cincio, Yiğit Subaşı, Andrew T. Sornborger,
+[4]: Patrick J. Coles 
+[5]: Quantum Natural Gradient. James Stokes, Josh Izaac, Nathan Killoran, Giuseppe Carleo
+[6]: Classification with Quantum Neural Networks on Near Term Processors. Edward Farhi, Hartmut Neven
+[7]: [https://pennylane.ai/qml/demos/tutorial_quanvolution.html]()
+[8]: [https://www.tensorflow.org/quantum/tutorials/mnist]()
+[9]: [https://www.tensorflow.org/quantum/tutorials/qcnn]()
+[10]: [https://arxiv.org/pdf/1801.01465.pdf]()
+[11]: [https://arxiv.org/pdf/1812.11042.pdf]()
 
-Learning the quantum algorithm for state overlap, Lukasz Cincio, Yiğit Subaşı, Andrew T. Sornborger, Patrick J. Coles 
-
-Quantum Natural Gradient. James Stokes, Josh Izaac, Nathan Killoran, Giuseppe Carleo
-
-Classification with Quantum Neural Networks on Near Term Processors. Edward Farhi, Hartmut Neven
-
-https://pennylane.ai/qml/demos/tutorial_quanvolution.html
-
-https://www.tensorflow.org/quantum/tutorials/mnist
-
-https://www.tensorflow.org/quantum/tutorials/qcnn
-
-https://arxiv.org/pdf/1801.01465.pdf
-
-https://arxiv.org/pdf/1812.11042.pdf
 
