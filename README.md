@@ -36,3 +36,17 @@ Projemizde yapay zeka ile resim işlemede çokça kullanılan Convolutional Neur
 Resimleri Q-CNN algorithmasına girdi olarak vermek için, resimin her pixel değerini kuantum state değerine dönüştürmemiz gerekiyor. Çok sayıda pixel kullanamayacağımız için resimlerimizi 4x4 boyutuna indirdik ve sonuç olarak 16 qubit içeren bir devre kurduk. Bu devrede 2x1 boyutunda Quantum Convolutional filtreleri resimin üzerinde gezdirdik. Böylece resmi yarı boyutuna indirgeyerek 2x2 boyutunda özellik haritalarını çıkardık. Bu noktada modele ölçüm yaparak tahmin yaptık. 
 
 Modelimiz MNIST datasetinde 3 ve 6 sayılarını sınıflandırmak için kullanıldı. 100 resmi eğitim için, 20 resmi ise modeli test etmek için kullandık. Modelin eğitimi sonucunda 76% doğruluk oranına ulaştık. 
+
+**Referanslar**
+
+Implementation and Analysis of Quantum Fourier Transform in Image Processing. Ola Al-Ta’ani, Ali Mohammad Alqudah2, Manal Al-Bzoor
+Quantum neural network, M.V.Altaisky 
+Learning the quantum algorithm for state overlap, Lukasz Cincio, Yiğit Subaşı, Andrew T. Sornborger, Patrick J. Coles 
+Quantum Natural Gradient. James Stokes, Josh Izaac, Nathan Killoran, Giuseppe Carleo
+Classification with Quantum Neural Networks on Near Term Processors. Edward Farhi, Hartmut Neven
+https://pennylane.ai/qml/demos/tutorial_quanvolution.html
+https://www.tensorflow.org/quantum/tutorials/mnist
+https://www.tensorflow.org/quantum/tutorials/qcnn
+https://arxiv.org/pdf/1801.01465.pdf
+https://arxiv.org/pdf/1812.11042.pdf
+
