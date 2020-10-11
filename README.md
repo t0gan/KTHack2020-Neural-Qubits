@@ -12,6 +12,8 @@ Grup Üyeleri:
 〈 TOGAN | TLIMAKHOV | YUSUF 〉
 
 
+
+
 **Özet**
 
 Görüntü işleme, bilgisayar bilimi ve mühendislikte en büyük araştırma alanlardan biridir. Askeri Endüstri, Güvenlik, Robotik, astronomi, gibi bir çok insan hayatını doğrudan etkileyen uygulamalarla yakından ilgilendiren bir teknoloji haline geldi.
@@ -21,6 +23,7 @@ Bu bağlamda kuantum görüntü işlemeye (QImP) artan bir ilgi var. Bunun neden
 Fourier dönüşümü, klasik sinyal ve görüntü işlemede kullanılan en önemli algoritmalardan biridir, aynı zamanda son geliştirilen kuantum algoritmalarında önemli bir bileşen olarak kullanıma girmiştir. klasikten farklı olarak, Kuantum Fourier dönüşümü, verilerin olasılık genliklerine kodlandığı bir kuantum durumunu kulanmasıdır.
 
 Kuantum bilgisayarlar, Kuantum süperpozisyonu ve kuantum dolaşıklığı özelliklerinden yararlandiğindan, Logic işlemlerinde aynı anda 0 ve 1〈 0 | 1 〉değerlerini alabiliyor. Bu nedenle kuantum bilgisayarlar temel bilgi birimi olan bit yerine Qubit ile çalışıp, belirli hesaplamalarda klasik bilgisayarlardan katlanarak daha hızlı olduğu kanıtlanmıştır.
+
 
 
 
@@ -37,16 +40,27 @@ Resimleri Q-CNN algorithmasına girdi olarak vermek için, resimin her pixel de�
 
 Modelimiz MNIST datasetinde 3 ve 6 sayılarını sınıflandırmak için kullanıldı. 100 resmi eğitim için, 20 resmi ise modeli test etmek için kullandık. Modelin eğitimi sonucunda 76% doğruluk oranına ulaştık. 
 
+
+
+------------------------------------------------------------------------------------------------------------------------------------
 **Referanslar**
 
 Implementation and Analysis of Quantum Fourier Transform in Image Processing. Ola Al-Ta’ani, Ali Mohammad Alqudah2, Manal Al-Bzoor
 Quantum neural network, M.V.Altaisky 
+
 Learning the quantum algorithm for state overlap, Lukasz Cincio, Yiğit Subaşı, Andrew T. Sornborger, Patrick J. Coles 
+
 Quantum Natural Gradient. James Stokes, Josh Izaac, Nathan Killoran, Giuseppe Carleo
+
 Classification with Quantum Neural Networks on Near Term Processors. Edward Farhi, Hartmut Neven
+
 https://pennylane.ai/qml/demos/tutorial_quanvolution.html
+
 https://www.tensorflow.org/quantum/tutorials/mnist
+
 https://www.tensorflow.org/quantum/tutorials/qcnn
+
 https://arxiv.org/pdf/1801.01465.pdf
+
 https://arxiv.org/pdf/1812.11042.pdf
 
