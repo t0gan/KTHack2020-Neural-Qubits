@@ -30,19 +30,19 @@ Kuantum bilgisayarlar, Kuantum süperpozisyonu ve kuantum dolaşıklığı özel
 ------------------------------------------------------------------------------------------------------------------------------------
 **Açıklama**
 
-Fourier analizi makine öğrenmesinde karmaşık olan bir verinin, boyutlarının azaltılarak daha basit bir problem olarak incelenmesi için oolanak sağlamaktadır. Çalışmamızda verilen bir resmin pixel gösterimini elde edebilmek için fourier temelli Flexible Representation of Quantum Images (FRQI) yöntemi kullanarak sağlanmıştır.
+Fourier analizi makine öğrenmesinde karmaşık olan bir verinin, boyutlarının azaltılarak daha basit bir problem olarak incelenmesi için oolanak sağlamaktadır. Çalışmamızda verilen bir resmin pixel değerinin kuantum durumu gösterimini elde edebilmek için fourier temelli Flexible Representation of Quantum Images (FRQI) yöntemi kullanarak sağlanmıştır.
 
 Bu yöntem nxn piksel ile verilen bir resmin log2(m) qubit olarak gösterilmesini sağlamaktadır.
 
-Çalışmamızda Neural network kullanarak resim sınıflandırması 3X3 piksel ve 4X4 piksel boyutunda resimlere uygulanarak sonuçlar elde edilmiştir ve bu sonuçlar Neural networkta yer alan   girdi olarak verilen resmin pixel dönüşümünü sağlayan algoritmanın FRQI yöntemiyle değiştirilerek, elde edilen sonuçlar ile karşılaştırılmıştır.
-Sonuçta 3X^ 3 piksel boyutunda resimlere FRQI uygulanması halinde programın  biraz daha hızlı çalıştığı görülürken,
+Çalışmamızda Neural Network kullanarak resim sınıflandırması 3X3 piksel ve 4X4 piksel boyutunda resimlere uygulanarak sonuçlar elde edilmiştir ve bu sonuçlar modele  girdi olarak verilen resmin pixel dönüşümünü sağlayan algoritmanın FRQI yöntemiyle değiştirilerek, elde edilen sonuçlar ile karşılaştırılmıştır.
+Sonuçta 3x3 piksel boyutunda resimlere FRQI uygulanması halinde programın  biraz daha hızlı çalıştığı görülürken,
 accuracy'nin düştüğü, 4x4  boyutlu resimlerde ise tam tersi bir durum ile karşılaşılmıştır.
 
-Projemizde yapay zeka ile resim işlemede çokça kullanılan Convolutional Neural Network(CNN) modellerini quantum algoritmaları ile yazmayı planladık. Şimdiye kadar yapılan Quantum Convolutional Network (Q-CNN) modellerinde, kuantum algoritmaları ile yazılan convolutional filtrelerin ya resmin ön işlemesini yapmak için ya da klasik CNN modelleri ile birleştirilip eğitildiğini gördük. Bu yüzden amacımız, bu projede baştan sonra kuantum algoritmaları ile çalışan bir Q-CNN modeli yazmak oldu. 
+İkinci model olarak projemizde yapay zeka ile resim işlemede çokça kullanılan Convolutional Neural Network(CNN) modellerini quantum algoritmaları ile yazmayı planladık. Şimdiye kadar yapılan Quantum Convolutional Network (Q-CNN) modellerinde, kuantum algoritmaları ile yazılan convolutional filtrelerin ya resmin ön işlemesini yapmak için ya da klasik CNN modelleri ile birleştirilip eğitildiğini gördük. Bu yüzden amacımız, bu projede baştan sonra kuantum algoritmaları ile çalışan bir Q-CNN modeli yazmak oldu. 
 
-Resimleri Q-CNN algorithmasına girdi olarak vermek için, resimin her pixel değerini kuantum state değerine dönüştürmemiz gerekiyor. Çok sayıda pixel kullanamayacağımız için resimlerimizi 4x4 boyutuna indirdik ve sonuç olarak 16 qubit içeren bir devre kurduk. Bu devrede 2x1 boyutunda Quantum Convolutional filtreleri resimin üzerinde gezdirdik. Böylece resmi yarı boyutuna indirgeyerek 2x2 boyutunda özellik haritalarını çıkardık. Bu noktada modele ölçüm yaparak tahmin yaptık. 
+Resimleri Q-CNN algorithmasına girdi olarak vermek için, resimin her pixel değerini kuantum state değerine dönüştürmemiz gerekiyor. Çok sayıda qubit kullanamayacağımız için resimlerimizi 4x4 boyutuna indirdik ve sonuç olarak 16 qubit içeren bir devre kurduk. Bu devrede 2x1 boyutunda Quantum Convolutional filtreleri resimin üzerinde gezdirdik. Böylece resmi yarı boyutuna indirgeyerek 2x2 boyutunda özellik haritalarını çıkardık. Bu noktada modele ölçüm yaparak tahmin yaptık. 
 
-Modelimiz MNIST datasetinde 3 ve 6 sayılarını sınıflandırmak için kullanıldı. 100 resmi eğitim için, 20 resmi ise modeli test etmek için kullandık. Modelin eğitimi sonucunda 76% doğruluk oranına ulaştık. 
+Q-CNN modelimiz MNIST datasetinde 3 ve 6 sayılarını sınıflandırmak için kullanıldı. 100 resmi eğitim için, 20 resmi ise modeli test etmek için kullandık. Modelin eğitimi sonucunda 76% doğruluk oranına ulaştık. 
 
 
 
