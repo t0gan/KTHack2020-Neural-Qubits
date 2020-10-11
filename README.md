@@ -14,6 +14,7 @@ Grup Üyeleri:
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
 **Özet**
 
 Görüntü işleme, bilgisayar bilimi ve mühendislikte en büyük araştırma alanlardan biridir. Askeri Endüstri, Güvenlik, Robotik, astronomi, gibi bir çok insan hayatını doğrudan etkileyen uygulamalarla yakından ilgilendiren bir teknoloji haline geldi.
@@ -28,6 +29,7 @@ Kuantum bilgisayarlar, Kuantum süperpozisyonu ve kuantum dolaşıklığı özel
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
 **Açıklama**
 
 Fourier analizi makine öğrenmesinde karmaşık olan bir verinin, boyutlarının azaltılarak daha basit bir problem olarak incelenmesi için oolanak sağlamaktadır. Çalışmamızda verilen bir resmin pixel değerinin kuantum durumu gösterimini elde edebilmek için fourier temelli Flexible Representation of Quantum Images (FRQI) yöntemi kullanarak sağlanmıştır.
@@ -47,6 +49,7 @@ Q-CNN modelimiz MNIST datasetinde 3 ve 6 sayılarını sınıflandırmak için k
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
 **Referanslar**
 
 [0]: Implementation and Analysis of Quantum Fourier Transform in Image Processing. Ola Al-Ta’ani, Ali Mohammad [1]: Alqudah2, Manal Al-Bzoor  
