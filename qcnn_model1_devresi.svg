@@ -1,0 +1,644 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8696.547" height="800">
+  <path stroke="#1967d2" d="M34.759 25h8631.788M34.759 75h8631.788M34.759 125h8631.788M34.759 175h8631.788M34.759 225h8631.788M34.759 275h8631.788M34.759 325h8631.788M34.759 375h8631.788M34.759 425h8631.788M34.759 475h8631.788M34.759 525h8631.788M34.759 575h8631.788M34.759 625h8631.788M34.759 675h8631.788M34.759 725h8631.788M34.759 775h8631.788"/>
+  <path stroke="#000" stroke-width="3" d="M508.026 25v50M583.752 25v50M659.546 25v50M1581.405 225v50M1657.131 225v50M1732.924 225v50M2654.784 125v50M2730.509 125v50M2806.303 125v50M3728.162 325v50M3803.888 325v50M3879.682 325v50M4801.541 425v50M4877.267 425v50M4953.061 425v50M5874.92 625v50M5950.646 625v50M6026.439 625v50M6948.298 525v50M7024.024 525v50M7099.818 525v50M8021.677 725v50M8097.403 725v50M8173.197 725v50"/>
+  <path fill="#fff" d="M10 5h49.518v40H10z"/>
+  <text x="34.759" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (0, 0):
+  </text>
+  <path fill="#fff" d="M10 55h49.518v40H10z"/>
+  <text x="34.759" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (0, 1):
+  </text>
+  <path fill="#fff" d="M10 105h49.518v40H10z"/>
+  <text x="34.759" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (0, 2):
+  </text>
+  <path fill="#fff" d="M10 155h49.518v40H10z"/>
+  <text x="34.759" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (0, 3):
+  </text>
+  <path fill="#fff" d="M10 205h49.518v40H10z"/>
+  <text x="34.759" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (1, 0):
+  </text>
+  <path fill="#fff" d="M10 255h49.518v40H10z"/>
+  <text x="34.759" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (1, 1):
+  </text>
+  <path fill="#fff" d="M10 305h49.518v40H10z"/>
+  <text x="34.759" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (1, 2):
+  </text>
+  <path fill="#fff" d="M10 355h49.518v40H10z"/>
+  <text x="34.759" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (1, 3):
+  </text>
+  <path fill="#fff" d="M10 405h49.518v40H10z"/>
+  <text x="34.759" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (2, 0):
+  </text>
+  <path fill="#fff" d="M10 455h49.518v40H10z"/>
+  <text x="34.759" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (2, 1):
+  </text>
+  <path fill="#fff" d="M10 505h49.518v40H10z"/>
+  <text x="34.759" y="525" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (2, 2):
+  </text>
+  <path fill="#fff" d="M10 555h49.518v40H10z"/>
+  <text x="34.759" y="575" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (2, 3):
+  </text>
+  <path fill="#fff" d="M10 605h49.518v40H10z"/>
+  <text x="34.759" y="625" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (3, 0):
+  </text>
+  <path fill="#fff" d="M10 655h49.518v40H10z"/>
+  <text x="34.759" y="675" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (3, 1):
+  </text>
+  <path fill="#fff" d="M10 705h49.518v40H10z"/>
+  <text x="34.759" y="725" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (3, 2):
+  </text>
+  <path fill="#fff" d="M10 755h49.518v40H10z"/>
+  <text x="34.759" y="775" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (3, 3):
+  </text>
+  <path stroke="#000" fill="#fff" d="M79.518 5h47.166v40H79.518z"/>
+  <text x="103.101" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x0
+  </text>
+  <path stroke="#000" fill="#fff" d="M146.684 5h46.211v40h-46.211z"/>
+  <text x="169.789" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x1
+  </text>
+  <path stroke="#000" fill="#fff" d="M212.895 5h46.482v40h-46.482z"/>
+  <text x="236.136" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x2
+  </text>
+  <path stroke="#000" fill="#fff" d="M279.376 55h46.974v40h-46.974z"/>
+  <text x="302.863" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x3
+  </text>
+  <path stroke="#000" fill="#fff" d="M346.35 55h46.718v40H346.35z"/>
+  <text x="369.709" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x4
+  </text>
+  <path stroke="#000" fill="#fff" d="M413.068 55h46.661v40h-46.661z"/>
+  <text x="436.399" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x5
+  </text>
+  <path stroke="#000" fill="#fff" d="M479.73 5h56.593v40H479.73z"/>
+  <text x="508.026" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M479.73 55h56.593v40H479.73z"/>
+  <text x="508.026" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^x6
+  </text>
+  <path stroke="#000" fill="#fff" d="M556.323 5h54.859v40h-54.859z"/>
+  <text x="583.752" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY
+  </text>
+  <path stroke="#000" fill="#fff" d="M556.323 55h54.859v40h-54.859z"/>
+  <text x="583.752" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY^x7
+  </text>
+  <path stroke="#000" fill="#fff" d="M631.181 5h56.729v40h-56.729z"/>
+  <text x="659.546" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M631.181 55h56.729v40h-56.729z"/>
+  <text x="659.546" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^x8
+  </text>
+  <path stroke="#000" fill="#fff" d="M707.91 5h47.112v40H707.91z"/>
+  <text x="731.466" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x9
+  </text>
+  <path stroke="#000" fill="#fff" d="M775.022 5h55.481v40h-55.481z"/>
+  <text x="802.762" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x10
+  </text>
+  <path stroke="#000" fill="#fff" d="M850.503 5h55.498v40h-55.498z"/>
+  <text x="878.252" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x11
+  </text>
+  <path stroke="#000" fill="#fff" d="M926.001 55h55.601v40h-55.601z"/>
+  <text x="953.802" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x12
+  </text>
+  <path stroke="#000" fill="#fff" d="M1001.602 55h55.288v40h-55.288z"/>
+  <text x="1029.246" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x13
+  </text>
+  <path stroke="#000" fill="#fff" d="M1076.891 55h56.006v40h-56.006z"/>
+  <text x="1104.894" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x14
+  </text>
+  <path stroke="#000" fill="#fff" d="M1152.896 205h47.166v40h-47.166z"/>
+  <text x="1176.48" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x0
+  </text>
+  <path stroke="#000" fill="#fff" d="M1220.063 205h46.211v40h-46.211z"/>
+  <text x="1243.168" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x1
+  </text>
+  <path stroke="#000" fill="#fff" d="M1286.273 205h46.482v40h-46.482z"/>
+  <text x="1309.514" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x2
+  </text>
+  <path stroke="#000" fill="#fff" d="M1352.755 255h46.974v40h-46.974z"/>
+  <text x="1376.242" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x3
+  </text>
+  <path stroke="#000" fill="#fff" d="M1419.729 255h46.718v40h-46.718z"/>
+  <text x="1443.088" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x4
+  </text>
+  <path stroke="#000" fill="#fff" d="M1486.447 255h46.661v40h-46.661z"/>
+  <text x="1509.778" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x5
+  </text>
+  <path stroke="#000" fill="#fff" d="M1553.108 205h56.593v40h-56.593z"/>
+  <text x="1581.405" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M1553.108 255h56.593v40h-56.593z"/>
+  <text x="1581.405" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^x6
+  </text>
+  <path stroke="#000" fill="#fff" d="M1629.701 205h54.859v40h-54.859z"/>
+  <text x="1657.131" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY
+  </text>
+  <path stroke="#000" fill="#fff" d="M1629.701 255h54.859v40h-54.859z"/>
+  <text x="1657.131" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY^x7
+  </text>
+  <path stroke="#000" fill="#fff" d="M1704.56 205h56.729v40h-56.729z"/>
+  <text x="1732.924" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M1704.56 255h56.729v40h-56.729z"/>
+  <text x="1732.924" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^x8
+  </text>
+  <path stroke="#000" fill="#fff" d="M1781.289 205h47.112v40h-47.112z"/>
+  <text x="1804.845" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x9
+  </text>
+  <path stroke="#000" fill="#fff" d="M1848.401 205h55.481v40h-55.481z"/>
+  <text x="1876.141" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x10
+  </text>
+  <path stroke="#000" fill="#fff" d="M1923.881 205h55.498v40h-55.498z"/>
+  <text x="1951.631" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x11
+  </text>
+  <path stroke="#000" fill="#fff" d="M1999.38 255h55.601v40h-55.601z"/>
+  <text x="2027.18" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x12
+  </text>
+  <path stroke="#000" fill="#fff" d="M2074.981 255h55.288v40h-55.288z"/>
+  <text x="2102.625" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x13
+  </text>
+  <path stroke="#000" fill="#fff" d="M2150.269 255h56.006v40h-56.006z"/>
+  <text x="2178.272" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x14
+  </text>
+  <path stroke="#000" fill="#fff" d="M2226.275 105h47.166v40h-47.166z"/>
+  <text x="2249.858" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x0
+  </text>
+  <path stroke="#000" fill="#fff" d="M2293.442 105h46.211v40h-46.211z"/>
+  <text x="2316.547" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x1
+  </text>
+  <path stroke="#000" fill="#fff" d="M2359.652 105h46.482v40h-46.482z"/>
+  <text x="2382.893" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x2
+  </text>
+  <path stroke="#000" fill="#fff" d="M2426.134 155h46.974v40h-46.974z"/>
+  <text x="2449.621" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x3
+  </text>
+  <path stroke="#000" fill="#fff" d="M2493.108 155h46.718v40h-46.718z"/>
+  <text x="2516.467" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x4
+  </text>
+  <path stroke="#000" fill="#fff" d="M2559.826 155h46.661v40h-46.661z"/>
+  <text x="2583.156" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x5
+  </text>
+  <path stroke="#000" fill="#fff" d="M2626.487 105h56.593v40h-56.593z"/>
+  <text x="2654.784" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M2626.487 155h56.593v40h-56.593z"/>
+  <text x="2654.784" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^x6
+  </text>
+  <path stroke="#000" fill="#fff" d="M2703.08 105h54.859v40h-54.859z"/>
+  <text x="2730.509" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY
+  </text>
+  <path stroke="#000" fill="#fff" d="M2703.08 155h54.859v40h-54.859z"/>
+  <text x="2730.509" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY^x7
+  </text>
+  <path stroke="#000" fill="#fff" d="M2777.939 105h56.729v40h-56.729z"/>
+  <text x="2806.303" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M2777.939 155h56.729v40h-56.729z"/>
+  <text x="2806.303" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^x8
+  </text>
+  <path stroke="#000" fill="#fff" d="M2854.667 105h47.112v40h-47.112z"/>
+  <text x="2878.223" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x9
+  </text>
+  <path stroke="#000" fill="#fff" d="M2921.779 105h55.481v40h-55.481z"/>
+  <text x="2949.52" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x10
+  </text>
+  <path stroke="#000" fill="#fff" d="M2997.26 105h55.498v40h-55.498z"/>
+  <text x="3025.009" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x11
+  </text>
+  <path stroke="#000" fill="#fff" d="M3072.758 155h55.601v40h-55.601z"/>
+  <text x="3100.559" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x12
+  </text>
+  <path stroke="#000" fill="#fff" d="M3148.36 155h55.288v40h-55.288z"/>
+  <text x="3176.004" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x13
+  </text>
+  <path stroke="#000" fill="#fff" d="M3223.648 155h56.006v40h-56.006z"/>
+  <text x="3251.651" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x14
+  </text>
+  <path stroke="#000" fill="#fff" d="M3299.654 305h47.166v40h-47.166z"/>
+  <text x="3323.237" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x0
+  </text>
+  <path stroke="#000" fill="#fff" d="M3366.82 305h46.211v40h-46.211z"/>
+  <text x="3389.926" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x1
+  </text>
+  <path stroke="#000" fill="#fff" d="M3433.031 305h46.482v40h-46.482z"/>
+  <text x="3456.272" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x2
+  </text>
+  <path stroke="#000" fill="#fff" d="M3499.513 355h46.974v40h-46.974z"/>
+  <text x="3523" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x3
+  </text>
+  <path stroke="#000" fill="#fff" d="M3566.487 355h46.718v40h-46.718z"/>
+  <text x="3589.846" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x4
+  </text>
+  <path stroke="#000" fill="#fff" d="M3633.205 355h46.661v40h-46.661z"/>
+  <text x="3656.535" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x5
+  </text>
+  <path stroke="#000" fill="#fff" d="M3699.866 305h56.593v40h-56.593z"/>
+  <text x="3728.162" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M3699.866 355h56.593v40h-56.593z"/>
+  <text x="3728.162" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^x6
+  </text>
+  <path stroke="#000" fill="#fff" d="M3776.459 305h54.859v40h-54.859z"/>
+  <text x="3803.888" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY
+  </text>
+  <path stroke="#000" fill="#fff" d="M3776.459 355h54.859v40h-54.859z"/>
+  <text x="3803.888" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY^x7
+  </text>
+  <path stroke="#000" fill="#fff" d="M3851.317 305h56.729v40h-56.729z"/>
+  <text x="3879.682" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M3851.317 355h56.729v40h-56.729z"/>
+  <text x="3879.682" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^x8
+  </text>
+  <path stroke="#000" fill="#fff" d="M3928.046 305h47.112v40h-47.112z"/>
+  <text x="3951.602" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x9
+  </text>
+  <path stroke="#000" fill="#fff" d="M3995.158 305h55.481v40h-55.481z"/>
+  <text x="4022.898" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x10
+  </text>
+  <path stroke="#000" fill="#fff" d="M4070.639 305h55.498v40h-55.498z"/>
+  <text x="4098.388" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x11
+  </text>
+  <path stroke="#000" fill="#fff" d="M4146.137 355h55.601v40h-55.601z"/>
+  <text x="4173.938" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x12
+  </text>
+  <path stroke="#000" fill="#fff" d="M4221.738 355h55.288v40h-55.288z"/>
+  <text x="4249.383" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x13
+  </text>
+  <path stroke="#000" fill="#fff" d="M4297.027 355h56.006v40h-56.006z"/>
+  <text x="4325.03" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x14
+  </text>
+  <path stroke="#000" fill="#fff" d="M4373.033 405h47.166v40h-47.166z"/>
+  <text x="4396.616" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x0
+  </text>
+  <path stroke="#000" fill="#fff" d="M4440.199 405h46.211v40h-46.211z"/>
+  <text x="4463.304" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x1
+  </text>
+  <path stroke="#000" fill="#fff" d="M4506.41 405h46.482v40h-46.482z"/>
+  <text x="4529.65" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x2
+  </text>
+  <path stroke="#000" fill="#fff" d="M4572.891 455h46.974v40h-46.974z"/>
+  <text x="4596.378" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x3
+  </text>
+  <path stroke="#000" fill="#fff" d="M4639.865 455h46.718v40h-46.718z"/>
+  <text x="4663.224" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x4
+  </text>
+  <path stroke="#000" fill="#fff" d="M4706.583 455h46.661v40h-46.661z"/>
+  <text x="4729.914" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x5
+  </text>
+  <path stroke="#000" fill="#fff" d="M4773.244 405h56.593v40h-56.593z"/>
+  <text x="4801.541" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M4773.244 455h56.593v40h-56.593z"/>
+  <text x="4801.541" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^x6
+  </text>
+  <path stroke="#000" fill="#fff" d="M4849.838 405h54.859v40h-54.859z"/>
+  <text x="4877.267" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY
+  </text>
+  <path stroke="#000" fill="#fff" d="M4849.838 455h54.859v40h-54.859z"/>
+  <text x="4877.267" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY^x7
+  </text>
+  <path stroke="#000" fill="#fff" d="M4924.696 405h56.729v40h-56.729z"/>
+  <text x="4953.061" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M4924.696 455h56.729v40h-56.729z"/>
+  <text x="4953.061" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^x8
+  </text>
+  <path stroke="#000" fill="#fff" d="M5001.425 405h47.112v40h-47.112z"/>
+  <text x="5024.981" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x9
+  </text>
+  <path stroke="#000" fill="#fff" d="M5068.537 405h55.481v40h-55.481z"/>
+  <text x="5096.277" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x10
+  </text>
+  <path stroke="#000" fill="#fff" d="M5144.018 405h55.498v40h-55.498z"/>
+  <text x="5171.767" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x11
+  </text>
+  <path stroke="#000" fill="#fff" d="M5219.516 455h55.601v40h-55.601z"/>
+  <text x="5247.316" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x12
+  </text>
+  <path stroke="#000" fill="#fff" d="M5295.117 455h55.288v40h-55.288z"/>
+  <text x="5322.761" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x13
+  </text>
+  <path stroke="#000" fill="#fff" d="M5370.405 455h56.006v40h-56.006z"/>
+  <text x="5398.408" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x14
+  </text>
+  <path stroke="#000" fill="#fff" d="M5446.411 605h47.166v40h-47.166z"/>
+  <text x="5469.995" y="625" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x0
+  </text>
+  <path stroke="#000" fill="#fff" d="M5513.578 605h46.211v40h-46.211z"/>
+  <text x="5536.683" y="625" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x1
+  </text>
+  <path stroke="#000" fill="#fff" d="M5579.788 605h46.482v40h-46.482z"/>
+  <text x="5603.029" y="625" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x2
+  </text>
+  <path stroke="#000" fill="#fff" d="M5646.27 655h46.974v40h-46.974z"/>
+  <text x="5669.757" y="675" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x3
+  </text>
+  <path stroke="#000" fill="#fff" d="M5713.244 655h46.718v40h-46.718z"/>
+  <text x="5736.603" y="675" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x4
+  </text>
+  <path stroke="#000" fill="#fff" d="M5779.962 655h46.661v40h-46.661z"/>
+  <text x="5803.293" y="675" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x5
+  </text>
+  <path stroke="#000" fill="#fff" d="M5846.623 605h56.593v40h-56.593z"/>
+  <text x="5874.92" y="625" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M5846.623 655h56.593v40h-56.593z"/>
+  <text x="5874.92" y="675" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^x6
+  </text>
+  <path stroke="#000" fill="#fff" d="M5923.216 605h54.859v40h-54.859z"/>
+  <text x="5950.646" y="625" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY
+  </text>
+  <path stroke="#000" fill="#fff" d="M5923.216 655h54.859v40h-54.859z"/>
+  <text x="5950.646" y="675" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY^x7
+  </text>
+  <path stroke="#000" fill="#fff" d="M5998.075 605h56.729v40h-56.729z"/>
+  <text x="6026.439" y="625" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M5998.075 655h56.729v40h-56.729z"/>
+  <text x="6026.439" y="675" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^x8
+  </text>
+  <path stroke="#000" fill="#fff" d="M6074.804 605h47.112v40h-47.112z"/>
+  <text x="6098.36" y="625" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x9
+  </text>
+  <path stroke="#000" fill="#fff" d="M6141.915 605h55.481v40h-55.481z"/>
+  <text x="6169.656" y="625" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x10
+  </text>
+  <path stroke="#000" fill="#fff" d="M6217.396 605h55.498v40h-55.498z"/>
+  <text x="6245.145" y="625" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x11
+  </text>
+  <path stroke="#000" fill="#fff" d="M6292.895 655h55.601v40h-55.601z"/>
+  <text x="6320.695" y="675" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x12
+  </text>
+  <path stroke="#000" fill="#fff" d="M6368.496 655h55.288v40h-55.288z"/>
+  <text x="6396.14" y="675" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x13
+  </text>
+  <path stroke="#000" fill="#fff" d="M6443.784 655h56.006v40h-56.006z"/>
+  <text x="6471.787" y="675" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x14
+  </text>
+  <path stroke="#000" fill="#fff" d="M6519.79 505h47.166v40h-47.166z"/>
+  <text x="6543.373" y="525" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x0
+  </text>
+  <path stroke="#000" fill="#fff" d="M6586.956 505h46.211v40h-46.211z"/>
+  <text x="6610.062" y="525" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x1
+  </text>
+  <path stroke="#000" fill="#fff" d="M6653.167 505h46.482v40h-46.482z"/>
+  <text x="6676.408" y="525" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x2
+  </text>
+  <path stroke="#000" fill="#fff" d="M6719.649 555h46.974v40h-46.974z"/>
+  <text x="6743.136" y="575" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x3
+  </text>
+  <path stroke="#000" fill="#fff" d="M6786.623 555h46.718v40h-46.718z"/>
+  <text x="6809.982" y="575" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x4
+  </text>
+  <path stroke="#000" fill="#fff" d="M6853.341 555h46.661v40h-46.661z"/>
+  <text x="6876.671" y="575" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x5
+  </text>
+  <path stroke="#000" fill="#fff" d="M6920.002 505h56.593v40h-56.593z"/>
+  <text x="6948.298" y="525" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M6920.002 555h56.593v40h-56.593z"/>
+  <text x="6948.298" y="575" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^x6
+  </text>
+  <path stroke="#000" fill="#fff" d="M6996.595 505h54.859v40h-54.859z"/>
+  <text x="7024.024" y="525" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY
+  </text>
+  <path stroke="#000" fill="#fff" d="M6996.595 555h54.859v40h-54.859z"/>
+  <text x="7024.024" y="575" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY^x7
+  </text>
+  <path stroke="#000" fill="#fff" d="M7071.454 505h56.729v40h-56.729z"/>
+  <text x="7099.818" y="525" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M7071.454 555h56.729v40h-56.729z"/>
+  <text x="7099.818" y="575" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^x8
+  </text>
+  <path stroke="#000" fill="#fff" d="M7148.182 505h47.112v40h-47.112z"/>
+  <text x="7171.738" y="525" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x9
+  </text>
+  <path stroke="#000" fill="#fff" d="M7215.294 505h55.481v40h-55.481z"/>
+  <text x="7243.035" y="525" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x10
+  </text>
+  <path stroke="#000" fill="#fff" d="M7290.775 505h55.498v40h-55.498z"/>
+  <text x="7318.524" y="525" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x11
+  </text>
+  <path stroke="#000" fill="#fff" d="M7366.273 555h55.601v40h-55.601z"/>
+  <text x="7394.074" y="575" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x12
+  </text>
+  <path stroke="#000" fill="#fff" d="M7441.874 555h55.288v40h-55.288z"/>
+  <text x="7469.519" y="575" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x13
+  </text>
+  <path stroke="#000" fill="#fff" d="M7517.163 555h56.006v40h-56.006z"/>
+  <text x="7545.166" y="575" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x14
+  </text>
+  <path stroke="#000" fill="#fff" d="M7593.169 705h47.166v40h-47.166z"/>
+  <text x="7616.752" y="725" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x0
+  </text>
+  <path stroke="#000" fill="#fff" d="M7660.335 705h46.211v40h-46.211z"/>
+  <text x="7683.44" y="725" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x1
+  </text>
+  <path stroke="#000" fill="#fff" d="M7726.546 705h46.482v40h-46.482z"/>
+  <text x="7749.787" y="725" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x2
+  </text>
+  <path stroke="#000" fill="#fff" d="M7793.027 755h46.974v40h-46.974z"/>
+  <text x="7816.514" y="775" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x3
+  </text>
+  <path stroke="#000" fill="#fff" d="M7860.001 755h46.718v40h-46.718z"/>
+  <text x="7883.36" y="775" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x4
+  </text>
+  <path stroke="#000" fill="#fff" d="M7926.719 755h46.661v40h-46.661z"/>
+  <text x="7950.05" y="775" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x5
+  </text>
+  <path stroke="#000" fill="#fff" d="M7993.381 705h56.593v40h-56.593z"/>
+  <text x="8021.677" y="725" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M7993.381 755h56.593v40h-56.593z"/>
+  <text x="8021.677" y="775" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^x6
+  </text>
+  <path stroke="#000" fill="#fff" d="M8069.974 705h54.859v40h-54.859z"/>
+  <text x="8097.403" y="725" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY
+  </text>
+  <path stroke="#000" fill="#fff" d="M8069.974 755h54.859v40h-54.859z"/>
+  <text x="8097.403" y="775" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    YY^x7
+  </text>
+  <path stroke="#000" fill="#fff" d="M8144.832 705h56.729v40h-56.729z"/>
+  <text x="8173.197" y="725" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M8144.832 755h56.729v40h-56.729z"/>
+  <text x="8173.197" y="775" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^x8
+  </text>
+  <path stroke="#000" fill="#fff" d="M8221.561 705h47.112v40h-47.112z"/>
+  <text x="8245.117" y="725" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x9
+  </text>
+  <path stroke="#000" fill="#fff" d="M8288.673 705h55.481v40h-55.481z"/>
+  <text x="8316.413" y="725" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x10
+  </text>
+  <path stroke="#000" fill="#fff" d="M8364.154 705h55.498v40h-55.498z"/>
+  <text x="8391.903" y="725" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x11
+  </text>
+  <path stroke="#000" fill="#fff" d="M8439.652 755h55.601v40h-55.601z"/>
+  <text x="8467.453" y="775" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    X^x12
+  </text>
+  <path stroke="#000" fill="#fff" d="M8515.253 755h55.288v40h-55.288z"/>
+  <text x="8542.897" y="775" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Y^x13
+  </text>
+  <path stroke="#000" fill="#fff" d="M8590.542 755h56.006v40h-56.006z"/>
+  <text x="8618.544" y="775" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    Z^x14
+  </text>
+</svg>
