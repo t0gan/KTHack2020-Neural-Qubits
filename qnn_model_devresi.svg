@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2254.586" height="500">
+  <path stroke="#1967d2" d="M39.811 25h2184.775M39.811 75h2184.775M39.811 125h2184.775M39.811 175h2184.775M39.811 225h2184.775M39.811 275h2184.775M39.811 325h2184.775M39.811 375h2184.775M39.811 425h2184.775M39.811 475h2184.775"/>
+  <path stroke="#000" stroke-width="3" d="M254.447 25v50M364.099 25v100M473.751 25v150M583.403 25v200M693.054 25v250M802.706 25v300M912.358 25v350M1022.01 25v400M1131.662 25v450M1240.271 25v50M1347.837 25v100M1455.404 25v150M1562.97 25v200M1670.537 25v250M1778.104 25v300M1885.67 25v350M1993.237 25v400M2100.803 25v450"/>
+  <path fill="#fff" d="M10 5h59.621v40H10z"/>
+  <text x="39.811" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (-1, -1):
+  </text>
+  <path fill="#fff" d="M10 55h59.621v40H10z"/>
+  <text x="39.811" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (0, 0):
+  </text>
+  <path fill="#fff" d="M10 105h59.621v40H10z"/>
+  <text x="39.811" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (0, 1):
+  </text>
+  <path fill="#fff" d="M10 155h59.621v40H10z"/>
+  <text x="39.811" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (0, 2):
+  </text>
+  <path fill="#fff" d="M10 205h59.621v40H10z"/>
+  <text x="39.811" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (1, 0):
+  </text>
+  <path fill="#fff" d="M10 255h59.621v40H10z"/>
+  <text x="39.811" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (1, 1):
+  </text>
+  <path fill="#fff" d="M10 305h59.621v40H10z"/>
+  <text x="39.811" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (1, 2):
+  </text>
+  <path fill="#fff" d="M10 355h59.621v40H10z"/>
+  <text x="39.811" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (2, 0):
+  </text>
+  <path fill="#fff" d="M10 405h59.621v40H10z"/>
+  <text x="39.811" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (2, 1):
+  </text>
+  <path fill="#fff" d="M10 455h59.621v40H10z"/>
+  <text x="39.811" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (2, 2):
+  </text>
+  <path stroke="#000" fill="#fff" d="M89.621 5h40v40h-40z"/>
+  <text x="109.621" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    X
+  </text>
+  <path stroke="#000" fill="#fff" d="M149.621 5h40v40h-40z"/>
+  <text x="169.621" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+  <path stroke="#000" fill="#fff" d="M209.621 55h89.652v40h-89.652z"/>
+  <text x="254.447" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^(xx1-0)
+  </text>
+  <path stroke="#000" fill="#fff" d="M209.621 5h89.652v40h-89.652z"/>
+  <text x="254.447" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M319.273 105h89.652v40h-89.652z"/>
+  <text x="364.099" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^(xx1-1)
+  </text>
+  <path stroke="#000" fill="#fff" d="M319.273 5h89.652v40h-89.652z"/>
+  <text x="364.099" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M428.925 155h89.652v40h-89.652z"/>
+  <text x="473.751" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^(xx1-2)
+  </text>
+  <path stroke="#000" fill="#fff" d="M428.925 5h89.652v40h-89.652z"/>
+  <text x="473.751" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M538.577 205h89.652v40h-89.652z"/>
+  <text x="583.403" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^(xx1-3)
+  </text>
+  <path stroke="#000" fill="#fff" d="M538.577 5h89.652v40h-89.652z"/>
+  <text x="583.403" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M648.228 255h89.652v40h-89.652z"/>
+  <text x="693.054" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^(xx1-4)
+  </text>
+  <path stroke="#000" fill="#fff" d="M648.228 5h89.652v40h-89.652z"/>
+  <text x="693.054" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M757.88 305h89.652v40H757.88z"/>
+  <text x="802.706" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^(xx1-5)
+  </text>
+  <path stroke="#000" fill="#fff" d="M757.88 5h89.652v40H757.88z"/>
+  <text x="802.706" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M867.532 355h89.652v40h-89.652z"/>
+  <text x="912.358" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^(xx1-6)
+  </text>
+  <path stroke="#000" fill="#fff" d="M867.532 5h89.652v40h-89.652z"/>
+  <text x="912.358" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M977.184 405h89.652v40h-89.652z"/>
+  <text x="1022.01" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^(xx1-7)
+  </text>
+  <path stroke="#000" fill="#fff" d="M977.184 5h89.652v40h-89.652z"/>
+  <text x="1022.01" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M1086.836 455h89.652v40h-89.652z"/>
+  <text x="1131.662" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX^(xx1-8)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1086.836 5h89.652v40h-89.652z"/>
+  <text x="1131.662" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    XX
+  </text>
+  <path stroke="#000" fill="#fff" d="M1196.487 55h87.567v40h-87.567z"/>
+  <text x="1240.271" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^(zz1-0)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1196.487 5h87.567v40h-87.567z"/>
+  <text x="1240.271" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M1304.054 105h87.567v40h-87.567z"/>
+  <text x="1347.837" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^(zz1-1)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1304.054 5h87.567v40h-87.567z"/>
+  <text x="1347.837" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M1411.621 155h87.567v40h-87.567z"/>
+  <text x="1455.404" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^(zz1-2)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1411.621 5h87.567v40h-87.567z"/>
+  <text x="1455.404" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M1519.187 205h87.567v40h-87.567z"/>
+  <text x="1562.97" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^(zz1-3)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1519.187 5h87.567v40h-87.567z"/>
+  <text x="1562.97" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M1626.754 255h87.567v40h-87.567z"/>
+  <text x="1670.537" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^(zz1-4)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1626.754 5h87.567v40h-87.567z"/>
+  <text x="1670.537" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M1734.32 305h87.567v40h-87.567z"/>
+  <text x="1778.104" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^(zz1-5)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1734.32 5h87.567v40h-87.567z"/>
+  <text x="1778.104" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M1841.887 355h87.567v40h-87.567z"/>
+  <text x="1885.67" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^(zz1-6)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1841.887 5h87.567v40h-87.567z"/>
+  <text x="1885.67" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M1949.453 405h87.567v40h-87.567z"/>
+  <text x="1993.237" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^(zz1-7)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1949.453 5h87.567v40h-87.567z"/>
+  <text x="1993.237" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M2057.02 455h87.567v40h-87.567z"/>
+  <text x="2100.803" y="475" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ^(zz1-8)
+  </text>
+  <path stroke="#000" fill="#fff" d="M2057.02 5h87.567v40h-87.567z"/>
+  <text x="2100.803" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    ZZ
+  </text>
+  <path stroke="#000" fill="#fff" d="M2164.586 5h40v40h-40z"/>
+  <text x="2184.586" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+</svg>

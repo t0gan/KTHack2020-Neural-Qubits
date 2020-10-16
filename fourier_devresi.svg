@@ -1,0 +1,480 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2596.522" height="450">
+  <path stroke="#1967d2" d="M34.759 25h2531.763M34.759 75h2531.763M34.759 125h2531.763M34.759 175h2531.763M34.759 225h2531.763M34.759 275h2531.763M34.759 325h2531.763M34.759 375h2531.763M34.759 425h2531.763"/>
+  <path stroke="#000" stroke-width="3" d="M175.573 25v50M251.629 25v50M327.685 75v50M403.74 75v50M486.177 125v50M486.177 25v50M568.614 125v50M568.614 25v50M645.497 175v50M645.497 75v50M722.379 175v50M722.379 75v50M804.816 225v50M804.816 125v50M804.816 25v50M887.253 225v50M887.253 125v50M887.253 25v50M964.217 275v50M964.217 175v50M964.217 75v50M1041.182 275v50M1041.182 175v50M1041.182 75v50M1123.619 325v50M1123.619 225v50M1123.619 125v50M1123.619 25v50M1206.056 325v50M1206.056 225v50M1206.056 125v50M1206.056 25v50M1283.02 375v50M1283.02 275v50M1283.02 175v50M1283.02 75v50M1359.984 375v50M1359.984 275v50M1359.984 175v50M1359.984 75v50M1442.421 325v50M1442.421 225v50M1442.421 125v50M1442.421 25v50M1524.858 325v50M1524.858 225v50M1524.858 125v50M1524.858 25v50M1601.822 275v50M1601.822 175v50M1601.822 75v50M1678.787 275v50M1678.787 175v50M1678.787 75v50M1761.224 225v50M1761.224 125v50M1761.224 25v50M1843.661 225v50M1843.661 125v50M1843.661 25v50M1920.543 175v50M1920.543 75v50M1997.425 175v50M1997.425 75v50M2079.862 125v50M2079.862 25v50M2162.299 125v50M2162.299 25v50M2238.355 75v50M2314.411 75v50M2390.466 25v50M2466.522 25v50"/>
+  <path fill="#fff" d="M10 5h49.518v40H10z"/>
+  <text x="34.759" y="25" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (0, 0):
+  </text>
+  <path fill="#fff" d="M10 55h49.518v40H10z"/>
+  <text x="34.759" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (0, 1):
+  </text>
+  <path fill="#fff" d="M10 105h49.518v40H10z"/>
+  <text x="34.759" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (0, 2):
+  </text>
+  <path fill="#fff" d="M10 155h49.518v40H10z"/>
+  <text x="34.759" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (1, 0):
+  </text>
+  <path fill="#fff" d="M10 205h49.518v40H10z"/>
+  <text x="34.759" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (1, 1):
+  </text>
+  <path fill="#fff" d="M10 255h49.518v40H10z"/>
+  <text x="34.759" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (1, 2):
+  </text>
+  <path fill="#fff" d="M10 305h49.518v40H10z"/>
+  <text x="34.759" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (2, 0):
+  </text>
+  <path fill="#fff" d="M10 355h49.518v40H10z"/>
+  <text x="34.759" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (2, 1):
+  </text>
+  <path fill="#fff" d="M10 405h49.518v40H10z"/>
+  <text x="34.759" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    (2, 2):
+  </text>
+  <path stroke="#000" fill="#fff" d="M79.518 205h40v40h-40z"/>
+  <text x="99.518" y="225" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    X
+  </text>
+  <path stroke="#000" fill="#fff" d="M79.518 355h40v40h-40z"/>
+  <text x="99.518" y="375" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    X
+  </text>
+  <path stroke="#000" fill="#fff" d="M79.518 5h40v40h-40z"/>
+  <text x="99.518" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+  <circle cx="175.573" cy="25" r="10"/>
+  <path stroke="#000" fill="#fff" d="M139.518 55h72.111v40h-72.111z"/>
+  <text x="175.573" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-6/7)
+  </text>
+  <text x="251.629" y="28" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="251.629" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="327.685" cy="75" r="10"/>
+  <path stroke="#000" fill="#fff" d="M291.629 105h72.111v40h-72.111z"/>
+  <text x="327.685" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-3/7)
+  </text>
+  <path stroke="#000" fill="#fff" d="M291.629 5h72.111v40h-72.111z"/>
+  <text x="327.685" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+  <text x="403.74" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="403.74" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="486.177" cy="125" r="10"/>
+  <path stroke="#000" fill="#fff" d="M443.74 155h84.874v40H443.74z"/>
+  <text x="486.177" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(11/14)
+  </text>
+  <circle cx="486.177" cy="25" r="10"/>
+  <path stroke="#000" fill="#fff" d="M443.74 55h84.874v40H443.74z"/>
+  <text x="486.177" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-6/7)
+  </text>
+  <text x="568.614" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="568.614" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="568.614" y="28" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="568.614" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="645.497" cy="175" r="10"/>
+  <path stroke="#000" fill="#fff" d="M608.614 205h73.765v40h-73.765z"/>
+  <text x="645.497" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.393
+  </text>
+  <circle cx="645.497" cy="75" r="10"/>
+  <path stroke="#000" fill="#fff" d="M608.614 105h73.765v40h-73.765z"/>
+  <text x="645.497" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-3/7)
+  </text>
+  <path stroke="#000" fill="#fff" d="M608.614 5h73.765v40h-73.765z"/>
+  <text x="645.497" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+  <text x="722.379" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="722.379" y="228" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="722.379" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="722.379" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="804.816" cy="225" r="10"/>
+  <path stroke="#000" fill="#fff" d="M762.379 255h84.874v40h-84.874z"/>
+  <text x="804.816" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.196
+  </text>
+  <circle cx="804.816" cy="125" r="10"/>
+  <path stroke="#000" fill="#fff" d="M762.379 155h84.874v40h-84.874z"/>
+  <text x="804.816" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(11/14)
+  </text>
+  <circle cx="804.816" cy="25" r="10"/>
+  <path stroke="#000" fill="#fff" d="M762.379 55h84.874v40h-84.874z"/>
+  <text x="804.816" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-6/7)
+  </text>
+  <text x="887.253" y="228" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="887.253" y="278" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="887.253" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="887.253" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="887.253" y="28" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="887.253" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="964.217" cy="275" r="10"/>
+  <path stroke="#000" fill="#fff" d="M927.253 305h73.929v40h-73.929z"/>
+  <text x="964.217" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.098
+  </text>
+  <circle cx="964.217" cy="175" r="10"/>
+  <path stroke="#000" fill="#fff" d="M927.253 205h73.929v40h-73.929z"/>
+  <text x="964.217" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.393
+  </text>
+  <circle cx="964.217" cy="75" r="10"/>
+  <path stroke="#000" fill="#fff" d="M927.253 105h73.929v40h-73.929z"/>
+  <text x="964.217" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-3/7)
+  </text>
+  <path stroke="#000" fill="#fff" d="M927.253 5h73.929v40h-73.929z"/>
+  <text x="964.217" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+  <text x="1041.182" y="278" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1041.182" y="328" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1041.182" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1041.182" y="228" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1041.182" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1041.182" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="1123.619" cy="325" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1081.182 355h84.874v40h-84.874z"/>
+  <text x="1123.619" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.049
+  </text>
+  <circle cx="1123.619" cy="225" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1081.182 255h84.874v40h-84.874z"/>
+  <text x="1123.619" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.196
+  </text>
+  <circle cx="1123.619" cy="125" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1081.182 155h84.874v40h-84.874z"/>
+  <text x="1123.619" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(11/14)
+  </text>
+  <circle cx="1123.619" cy="25" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1081.182 55h84.874v40h-84.874z"/>
+  <text x="1123.619" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-6/7)
+  </text>
+  <text x="1206.056" y="328" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1206.056" y="378" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1206.056" y="228" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1206.056" y="278" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1206.056" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1206.056" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1206.056" y="28" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1206.056" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="1283.02" cy="375" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1246.056 405h73.929v40h-73.929z"/>
+  <text x="1283.02" y="425" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.025
+  </text>
+  <circle cx="1283.02" cy="275" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1246.056 305h73.929v40h-73.929z"/>
+  <text x="1283.02" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.098
+  </text>
+  <circle cx="1283.02" cy="175" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1246.056 205h73.929v40h-73.929z"/>
+  <text x="1283.02" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.393
+  </text>
+  <circle cx="1283.02" cy="75" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1246.056 105h73.929v40h-73.929z"/>
+  <text x="1283.02" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-3/7)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1246.056 5h73.929v40h-73.929z"/>
+  <text x="1283.02" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+  <text x="1359.984" y="378" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1359.984" y="428" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1359.984" y="278" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1359.984" y="328" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1359.984" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1359.984" y="228" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1359.984" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1359.984" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="1442.421" cy="325" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1399.984 355h84.874v40h-84.874z"/>
+  <text x="1442.421" y="375" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.049
+  </text>
+  <circle cx="1442.421" cy="225" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1399.984 255h84.874v40h-84.874z"/>
+  <text x="1442.421" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.196
+  </text>
+  <circle cx="1442.421" cy="125" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1399.984 155h84.874v40h-84.874z"/>
+  <text x="1442.421" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(11/14)
+  </text>
+  <circle cx="1442.421" cy="25" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1399.984 55h84.874v40h-84.874z"/>
+  <text x="1442.421" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-6/7)
+  </text>
+  <text x="1524.858" y="328" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1524.858" y="378" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1524.858" y="228" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1524.858" y="278" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1524.858" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1524.858" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1524.858" y="28" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1524.858" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="1601.822" cy="275" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1564.858 305h73.929v40h-73.929z"/>
+  <text x="1601.822" y="325" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.098
+  </text>
+  <circle cx="1601.822" cy="175" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1564.858 205h73.929v40h-73.929z"/>
+  <text x="1601.822" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.393
+  </text>
+  <circle cx="1601.822" cy="75" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1564.858 105h73.929v40h-73.929z"/>
+  <text x="1601.822" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-3/7)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1564.858 5h73.929v40h-73.929z"/>
+  <text x="1601.822" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+  <text x="1678.787" y="278" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1678.787" y="328" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1678.787" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1678.787" y="228" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1678.787" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1678.787" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="1761.224" cy="225" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1718.787 255h84.874v40h-84.874z"/>
+  <text x="1761.224" y="275" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.196
+  </text>
+  <circle cx="1761.224" cy="125" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1718.787 155h84.874v40h-84.874z"/>
+  <text x="1761.224" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(11/14)
+  </text>
+  <circle cx="1761.224" cy="25" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1718.787 55h84.874v40h-84.874z"/>
+  <text x="1761.224" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-6/7)
+  </text>
+  <text x="1843.661" y="228" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1843.661" y="278" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1843.661" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1843.661" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1843.661" y="28" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1843.661" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="1920.543" cy="175" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1883.661 205h73.765v40h-73.765z"/>
+  <text x="1920.543" y="225" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^0.393
+  </text>
+  <circle cx="1920.543" cy="75" r="10"/>
+  <path stroke="#000" fill="#fff" d="M1883.661 105h73.765v40h-73.765z"/>
+  <text x="1920.543" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-3/7)
+  </text>
+  <path stroke="#000" fill="#fff" d="M1883.661 5h73.765v40h-73.765z"/>
+  <text x="1920.543" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+  <text x="1997.425" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1997.425" y="228" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1997.425" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="1997.425" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="2079.862" cy="125" r="10"/>
+  <path stroke="#000" fill="#fff" d="M2037.425 155h84.874v40h-84.874z"/>
+  <text x="2079.862" y="175" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(11/14)
+  </text>
+  <circle cx="2079.862" cy="25" r="10"/>
+  <path stroke="#000" fill="#fff" d="M2037.425 55h84.874v40h-84.874z"/>
+  <text x="2079.862" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-6/7)
+  </text>
+  <text x="2162.299" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="2162.299" y="178" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="2162.299" y="28" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="2162.299" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="2238.355" cy="75" r="10"/>
+  <path stroke="#000" fill="#fff" d="M2202.299 105h72.111v40h-72.111z"/>
+  <text x="2238.355" y="125" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-3/7)
+  </text>
+  <path stroke="#000" fill="#fff" d="M2202.299 5h72.111v40h-72.111z"/>
+  <text x="2238.355" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+  <text x="2314.411" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="2314.411" y="128" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <circle cx="2390.466" cy="25" r="10"/>
+  <path stroke="#000" fill="#fff" d="M2354.411 55h72.111v40h-72.111z"/>
+  <text x="2390.466" y="75" dominant-baseline="middle" text-anchor="middle" font-size="14" font-family="Arial">
+    @^(-6/7)
+  </text>
+  <text x="2466.522" y="28" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <text x="2466.522" y="78" dominant-baseline="middle" text-anchor="middle" font-size="40" font-family="Arial">
+    ×
+  </text>
+  <path stroke="#000" fill="#fff" d="M2506.522 5h40v40h-40z"/>
+  <text x="2526.522" y="25" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Arial">
+    H
+  </text>
+</svg>
