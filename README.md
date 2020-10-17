@@ -42,17 +42,17 @@ Hackathona, kuantum programlama ile ilgili çok az, kuantum makine öğrenmesi i
 
 **Referanslar**
 
-[1] https://pennylane.ai/qml/demos/tutorial_quanvolution.html
-[2] https://www.tensorflow.org/quantum/tutorials/
-[3] Implementation and Analysis of Quantum Fourier Transform in ImageProcessing
-[4] P. Le, F. Dong, and K. Hirota, "A flexible representation of quantum images for polynomialpreparation, image compression, and processing operations," Quantum InformationProcessing, vol. 10, no. 1, pp. 63-84, 2011
-[5] Y. Zhang, K. Lu, Y. Gao, and M. Wang, "NEQR: a novel enhanced quantum representation ofdigital images," Quantum Information Processing, vol. 12, no. 8, pp. 2833-2860, 2013.
-[6] Performing Quantum Computer Vision Tasks onIBM Quantum Computers and Simulators
-[7] Implementation and Analysis of Quantum Fourier Transform in Image Processing, Ola Al-Ta’ani, Ali Mohammad Alqudah, Manal Al-Bzoor
-[8] Quantum neural network, M.V.Altaisky
-[9] Learning the quantum algorithm for state overlap, Lukasz Cincio, Yiğit Subaşı, Andrew T. Sornborger, Patrick J. Coles
-[10] Quantum Natural Gradient, James Stokes, Josh Izaac, Nathan Killoran, Giuseppe Carleo
-[11] Classification with Quantum Neural Networks on Near Term Processors, Edward Farhi, Hartmut Neven
-[12] Image Processing in Quantum Computers, Aditya Dendukuri, Khoa Luu
-[13] Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment, Xi-Wei Yao, Hengyan Wang, Zeyang Liao, Ming-Cheng Chen, Jian Pan, Jun Li, Kechao Zhang, Xingcheng Lin, Zhehui Wang, Zhihuang Luo, Wenqiang Zheng, Jianzhong Li, Meisheng Zhao, Xinhua Peng, Dieter Suter
+[1] https://pennylane.ai/qml/demos/tutorial_quanvolution.html  
+[2] https://www.tensorflow.org/quantum/tutorials/  
+[3] Implementation and Analysis of Quantum Fourier Transform in ImageProcessing  
+[4] P. Le, F. Dong, and K. Hirota, "A flexible representation of quantum images for polynomialpreparation, image compression, and processing operations," Quantum InformationProcessing, vol. 10, no. 1, pp. 63-84, 2011  
+[5] Y. Zhang, K. Lu, Y. Gao, and M. Wang, "NEQR: a novel enhanced quantum representation ofdigital images," Quantum Information Processing, vol. 12, no. 8, pp. 2833-2860, 2013.  
+[6] Performing Quantum Computer Vision Tasks onIBM Quantum Computers and Simulators  
+[7] Implementation and Analysis of Quantum Fourier Transform in Image Processing, Ola Al-Ta’ani, Ali Mohammad Alqudah, Manal Al-Bzoor  
+[8] Quantum neural network, M.V.Altaisky  
+[9] Learning the quantum algorithm for state overlap, Lukasz Cincio, Yiğit Subaşı, Andrew T. Sornborger, Patrick J. Coles  
+[10] Quantum Natural Gradient, James Stokes, Josh Izaac, Nathan Killoran, Giuseppe Carleo  
+[11] Classification with Quantum Neural Networks on Near Term Processors, Edward Farhi, Hartmut Neven  
+[12] Image Processing in Quantum Computers, Aditya Dendukuri, Khoa Luu  
+[13] Quantum Image Processing and Its Application to Edge Detection: Theory and Experiment, Xi-Wei Yao, Hengyan Wang, Zeyang Liao, Ming-Cheng Chen, Jian Pan, Jun Li, Kechao Zhang, Xingcheng Lin, Zhehui Wang, Zhihuang Luo, Wenqiang Zheng, Jianzhong Li, Meisheng Zhao, Xinhua Peng, Dieter Suter  
 
